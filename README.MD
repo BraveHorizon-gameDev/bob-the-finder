@@ -17,7 +17,7 @@ python phonedetail.py
 
 ## Usage
 
-When you run the script, it will prompt you to enter a phone number. The script will then display the details of the phone number, including the country, carrier, and timezone.
+When you run the script, it will prompt you to enter a phone number. The script will then display the details of the phone number, including the country, carrier, timezone, if the number is valid, if the number is possible, number type, formats, region code and normalized input digits.
 
 ## Contributing
 
